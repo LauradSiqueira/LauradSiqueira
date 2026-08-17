@@ -1,19 +1,17 @@
 # 👩🏻‍💻 Laura Siqueira
+<br>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+<br>
 
-**`Desenvolvedora FullStack`**
+**`Engenheira de Software`**
 
-<h2 data-importer="text" align="left">Me chamo Laura de Siqueira Silva, tenho 18 anos e moro em São Paulo. Concluí o ensino médio na ETEC com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na FIAP (bolsista integral)</h2>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/LauradSiqueira/LauradSiqueira/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LauradSiqueira/LauradSiqueira/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 data-importer="text" align="left">Eu me chamo Laura de Siqueira Silva, tenho 18 anos e moro em São Paulo. Concluí o ensino médio na ETEC com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na FIAP (bolsista integral).</h2>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemplcHY1dmN2bmZuZmRzczRteXJwY2pqZWR0Y3J1bWdranFzcDJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LauradSiqueira&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=LauradSiqueira&include_all_commits=true&theme=monokai)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LauradSiqueira&layout=compact&langs_count=6&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=LauradSiqueira&layout=compact&langs_count=6&theme=monokai)
 
 ###
 
@@ -38,14 +36,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/laura-siqueirasil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/LauradSiqueira/LauradSiqueira/snake-output/snake.svg" alt="Snake animation" />
 
 ###
