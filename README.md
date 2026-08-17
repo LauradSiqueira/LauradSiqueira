@@ -9,6 +9,8 @@
 
 <h2 data-importer="text" align="left">Eu me chamo Laura de Siqueira Silva, tenho 18 anos e moro em São Paulo. Concluí o ensino médio na ETEC com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na FIAP (bolsista integral).</h2>
 
+<br>
+
 ###
 <div align="center">
 
